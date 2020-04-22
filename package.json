@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "test framework using jest and puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhkrish555/puppeteer-jest.git"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "author": "NikhilK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhkrish555/puppeteer-jest/issues"
+  },
+  "homepage": "https://github.com/nikhkrish555/puppeteer-jest#readme"
+}
